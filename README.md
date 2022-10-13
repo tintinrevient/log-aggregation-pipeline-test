@@ -29,3 +29,4 @@ PUT analytic_event_logs/_settings
 ## References
 
 * https://stackoverflow.com/questions/56130362/kibana-doesnot-shows-yellow-marked-elastic-search-indexes-in-discover-tab
+* https://grafana.com/docs/grafana/v9.0/datasources/elasticsearch/#configure-the-datasource-with-provisioning
