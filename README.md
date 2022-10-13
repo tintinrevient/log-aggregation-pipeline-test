@@ -4,6 +4,8 @@
 
 This log aggregation pipeline is a replica of [the previous pipeline](https://github.com/tintinrevient/log-aggregation-pipeline) with the ELK version upgraded from `6.4.0` to `7.15.2`.
 
+## Checklist
+
 The checklist is as below to make sure it works as expected:
 
 1. Check if the indices have been created in `elasticsearch` in http://localhost:9200/_cat/indices with status `green`.
