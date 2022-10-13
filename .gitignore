@@ -1,0 +1,7 @@
+elk/esdata
+elk/grafanadata
+elk/kibanadata
+
+.idea
+
+.DS_Store
