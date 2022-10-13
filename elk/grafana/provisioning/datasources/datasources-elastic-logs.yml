@@ -1,0 +1,10 @@
+apiVersion: 1
+datasources:
+  - name: elasticsearch
+    type: elasticsearch
+    access: proxy
+    url: http://elasticsearch:9200
+    database: '[metrics-]YYYY.MM.DD'
+    jsonData:
+      interval: Daily
+      timeField: '@timestamp'
