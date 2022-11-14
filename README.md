@@ -29,6 +29,9 @@ PUT analytic_event_logs/_settings
 </p>
 
 5. Go to http://localhost:5601/ to check the Kibana dashboard:
+<p float="left">
+  <img src="pix/grafana.png" width="800" />
+</p>
 
 ## References
 
