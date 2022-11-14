@@ -28,6 +28,8 @@ PUT analytic_event_logs/_settings
   <img src="pix/discover.png" width="800" />
 </p>
 
+5. Go to http://localhost:5601/ to check the Kibana dashboard:
+
 ## References
 
 * https://stackoverflow.com/questions/56130362/kibana-doesnot-shows-yellow-marked-elastic-search-indexes-in-discover-tab
